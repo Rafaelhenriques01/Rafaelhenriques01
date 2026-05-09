@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Rafaelhenriques01&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -40,9 +40,9 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8&theme=dracula"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelhenriques01&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
 
@@ -52,7 +52,7 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/trophy-output/trophy.svg" />
+<img src="https://raw.githubusercontent.com/Rafaelhenriques01/Rafaelhenriques01/trophy-output/trophy.svg" />
 
 </div>
 
@@ -61,11 +61,11 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 ## Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/Rafaelhenriques01O/pacman-output/pacman-contribution-graph-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/Rafaelhenriques01/pacman-output/pacman-contribution-graph.svg">
 
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEUUSUARIO/Rafaelhenriques01/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ---
