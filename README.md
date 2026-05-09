@@ -4,6 +4,14 @@
   Desenvolvimento de Sistemas • Banco de Dados • Business Intelligence • Automação
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=A970FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Sistemas;Banco+de+Dados+e+BI;Automação+e+Soluções+Digitais"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=flat" />
+</p>
+
 ---
 
 ## Sobre mim
@@ -54,9 +62,9 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph-dark.svg">
-  
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
-  
+
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
