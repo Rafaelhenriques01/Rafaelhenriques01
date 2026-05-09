@@ -24,7 +24,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Rafaelhenriques01
-          games: github_user_name: Rafaelhenriques01
+          games: "pacman"
 
       - name: Push pacman graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
