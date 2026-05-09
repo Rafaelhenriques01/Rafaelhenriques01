@@ -23,7 +23,7 @@ jobs:
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: SEUUSUARIO
+          github_user_name: Rafaelhenriques01
           games: "pacman"
 
       - name: Push pacman graph
