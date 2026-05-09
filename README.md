@@ -38,7 +38,7 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 ## Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=Rafaelhenriques01)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Conquistas
 
