@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Rafael Henriques Aquino Correa</h1>
 
-<!--
-**Rafaelhenriques01/Rafaelhenriques01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvimento de Sistemas • Banco de Dados • Business Intelligence • Automação
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Desenvolvedor focado em sistemas web, banco de dados e soluções digitais, com interesse em automação, análise de dados, design e UI/UX.
+
+Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos freelance na área de tecnologia.
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,mysql,postgres,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI"/>
+
+</div>
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8&theme=dracula"/>
+
+</div>
+
+---
+
+## Conquistas
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/trophy-output/trophy.svg" />
+
+</div>
+
+---
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rafael-henriques-691446338/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaelhenriquesaquino@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
