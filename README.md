@@ -40,14 +40,11 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelhenriques01&layout=compact&langs_count=8&theme=dracula"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01)](https://github.com/anuraghazra/github-readme-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelhenriques01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## Conquistas
