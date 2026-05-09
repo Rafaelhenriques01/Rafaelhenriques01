@@ -44,6 +44,8 @@ Atualmente cursando Engenharia de Software na PUC Minas e atuando em projetos fr
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelhenriques01&layout=compact&langs_count=8&theme=dracula"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafaelhenriques01)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
